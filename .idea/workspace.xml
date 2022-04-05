@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kulinarik.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wanderwege.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wissenswertes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Add new html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +47,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649146986356</updated>
-      <workItem from="1649146987708" duration="657000" />
+      <workItem from="1649146987708" duration="956000" />
     </task>
+    <task id="LOCAL-00001" summary="Add new html">
+      <created>1649147792253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649147792253</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add new html">
+      <created>1649147840192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649147840192</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new html" />
   </component>
 </project>
