@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="i don't know">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Add new html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,13 +31,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira\CSS" />
     </key>
@@ -52,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649146986356</updated>
-      <workItem from="1649146987708" duration="1268000" />
+      <workItem from="1649146987708" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="Add new html">
       <created>1649147792253</created>
@@ -68,14 +63,7 @@
       <option name="project" value="LOCAL" />
       <updated>1649147840192</updated>
     </task>
-    <task id="LOCAL-00003" summary="i don't know">
-      <created>1649147966517</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1649147966517</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +82,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new html" />
-    <MESSAGE value="i don't know" />
-    <option name="LAST_COMMIT_MESSAGE" value="i don't know" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new html" />
   </component>
 </project>
