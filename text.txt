@@ -1,0 +1,6 @@
+Wer hat was gemacht?
+
+Amata:
+-Template einrichten, etwas strukturieren (Kommentare)
+-navbar anpassen
+-Farben ändern
