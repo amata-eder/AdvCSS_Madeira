@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Added food headers">
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Added some food descriptions">
       <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651140011848</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added some food descriptions">
+      <created>1651140704991</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651140704991</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +148,7 @@
     <MESSAGE value="Structured template (added some comments, updated navbar, filled in some content)" />
     <MESSAGE value="Added three flipcards" />
     <MESSAGE value="Added food headers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added food headers" />
+    <MESSAGE value="Added some food descriptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some food descriptions" />
   </component>
 </project>
