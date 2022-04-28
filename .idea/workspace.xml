@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Add food pictures" />
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Add food pictures">
+      <change afterPath="$PROJECT_DIR$/Madeira Template/css/animations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Adv_CSS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -120,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651149554418</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add food pictures">
+      <created>1651149588525</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651149588525</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

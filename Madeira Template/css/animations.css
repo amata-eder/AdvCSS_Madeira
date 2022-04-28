@@ -1,0 +1,38 @@
+.slideinRight .one{
+    animation-duration: 3s;
+    animation-name: slideinRight;
+}
+
+.animationhidden{
+    overflow: hidden;
+}
+
+.slideinLeft{
+    animation-duration: 3s;
+    animation-name: slideinLeft;
+}
+
+@keyframes slideinRight{
+    from{
+        margin-left: 100%;
+        width: 300%;
+    }
+
+    to{
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+@keyframes slideinLeft{
+    from{
+        margin-right: 0%;
+        width: 300%;
+    }
+
+    to{
+        margin-left: 5%;
+        width: 100%;
+    }
+}
+
