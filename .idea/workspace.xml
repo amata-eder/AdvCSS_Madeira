@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Finished animations for Kulinarik" />
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Push workspace.xml">
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/delphin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,12 +38,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Adv_CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Madeira Template/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira\Madeira Template\assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira\landing-zero-theme\assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira" />
     </key>
@@ -141,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651153871297</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Push workspace.xml">
+      <created>1651154188058</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1651154188058</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +184,7 @@
     <MESSAGE value="Add food pictures" />
     <MESSAGE value="Added new animations for Kulinarik" />
     <MESSAGE value="Finished animations for Kulinarik" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished animations for Kulinarik" />
+    <MESSAGE value="Push workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push workspace.xml" />
   </component>
 </project>
