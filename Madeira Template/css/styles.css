@@ -49,8 +49,12 @@ a:focus {
     outline: 0;
 }
 
-h1,h2,h3,h4,h5,h6 {
-    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+h1,h2,h4,h5,h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Merriweather', sans-serif;
 }
 
 p {
@@ -78,7 +82,7 @@ p {
 }
 
 .cursive {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
     text-transform: none;
 }
 
@@ -116,7 +120,7 @@ footer {
 
 .navbar-default {
     border-color: rgba(35,35,35,.05);
-    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #222;
     -webkit-transition: all .4s;
     -moz-transition: all .4s;
@@ -124,7 +128,7 @@ footer {
 }
 
 .navbar-header > .navbar-brand {
-    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #247dbd;
     padding: 15px;
     -webkit-transition: padding .2s ease-in;
