@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Added new animations for Kulinarik">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/css/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/animations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Finished animations for Kulinarik" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651152173509</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Finished animations for Kulinarik">
+      <created>1651153871297</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651153871297</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +170,7 @@
     <MESSAGE value="Added food pictures" />
     <MESSAGE value="Add food pictures" />
     <MESSAGE value="Added new animations for Kulinarik" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new animations for Kulinarik" />
+    <MESSAGE value="Finished animations for Kulinarik" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished animations for Kulinarik" />
   </component>
 </project>
