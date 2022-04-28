@@ -1,13 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Add CSS sheets in head" />
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Structured with header, main, footer">
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/assets/beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/assets/bike.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/assets/city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/assets/colors.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/assets/deer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/assets/lake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/js/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-zero-theme/js/wow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Madeira.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Madeira.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2022_10_29_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_04_2022_10_29__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/bootstrap-5.1.3/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -31,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Adv_CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -48,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649146986356</updated>
       <workItem from="1649146987708" duration="956000" />
+      <workItem from="1651126691107" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="Add new html">
       <created>1649147792253</created>
@@ -70,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649149096577</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Structured with header, main, footer">
+      <created>1649153228319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649153228319</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,10 +120,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new html" />
     <MESSAGE value="Add CSS sheets in head" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add CSS sheets in head" />
+    <MESSAGE value="Structured with header, main, footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Structured with header, main, footer" />
   </component>
 </project>
