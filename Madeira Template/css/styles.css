@@ -91,7 +91,7 @@ h1,h2,h4,h5,h6 {
 }
 
 h3 {
-    font-family: 'Merriweather', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 p {
@@ -564,4 +564,10 @@ img::selection {
 img::-moz-selection {
     color: #fff;
     background: 0 0;
+}
+
+#zahlenul {
+    width: 218px;
+    margin: 0 auto;
+    padding: 0;
 }
