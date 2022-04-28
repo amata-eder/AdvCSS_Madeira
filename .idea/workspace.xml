@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Added three flipcards">
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/madeira1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/madeira2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/madeira3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/madeira4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/madeira5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/madeira6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/sea.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
@@ -36,12 +43,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Madeira Template/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Laura\Documents\4. Semester\AdvCSS_Madeira\Madeira Template\assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira\landing-zero-theme\assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira" />
     </key>
