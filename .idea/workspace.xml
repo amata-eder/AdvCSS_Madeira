@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Added template landing-zero-theme">
-      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/header.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Added three flipcards">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,12 +36,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Madeira Template/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OM" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Madeira Template/assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira\landing-zero-theme\assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira" />
     </key>
@@ -59,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649146986356</updated>
       <workItem from="1649146987708" duration="956000" />
-      <workItem from="1651126691107" duration="2590000" />
+      <workItem from="1651126691107" duration="3684000" />
     </task>
     <task id="LOCAL-00001" summary="Add new html">
       <created>1649147792253</created>
@@ -96,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651127407870</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Structured template (added some comments, updated navbar, filled in some content)">
+      <created>1651129733318</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651129733318</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added three flipcards">
+      <created>1651139370476</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651139370476</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,12 +125,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new html" />
     <MESSAGE value="Add CSS sheets in head" />
     <MESSAGE value="Structured with header, main, footer" />
     <MESSAGE value="Added template landing-zero-theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added template landing-zero-theme" />
+    <MESSAGE value="Structured template (added some comments, updated navbar, filled in some content)" />
+    <MESSAGE value="Added three flipcards" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added three flipcards" />
   </component>
 </project>
