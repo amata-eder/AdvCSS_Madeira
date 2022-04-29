@@ -11,6 +11,7 @@ http://www.bootstrapzero.com
 @import url(https://fonts.googleapis.com/css?family=Merriweather:300);
 @import url(https://fonts.googleapis.com/css?family=Roboto:500);
 @import url("flipcard.css");
+@import url("animations.css");
 
 @media (prefers-color-scheme: light) {
     body {
@@ -90,7 +91,7 @@ h1,h2,h4,h5,h6 {
 }
 
 h3 {
-    font-family: 'Merriweather', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 p {
@@ -320,6 +321,10 @@ header .header-content .inner p {
 
 footer {
     background-color:#2d2d2d;
+}
+
+footer .content{
+    text-align: center;
 }
 
 @media(min-width:768px) {
@@ -563,4 +568,10 @@ img::selection {
 img::-moz-selection {
     color: #fff;
     background: 0 0;
+}
+
+#zahlenul {
+    width: 218px;
+    margin: 0 auto;
+    padding: 0;
 }

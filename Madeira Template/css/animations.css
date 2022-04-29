@@ -1,0 +1,34 @@
+.slideinRight{
+    animation-duration: 3s;
+    animation-name: slideinRight;
+}
+
+.slideinLeft{
+    animation-duration: 3s;
+    animation-name: slideinLeft;
+}
+
+@keyframes slideinRight{
+    from{
+        margin-left: 0%;
+        width: 300%;
+    }
+
+    to{
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+@keyframes slideinLeft{
+    from{
+        margin-left: 0%;
+        width: 300%;
+    }
+
+    to{
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
