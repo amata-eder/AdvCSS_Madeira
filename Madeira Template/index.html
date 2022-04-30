@@ -11,7 +11,9 @@
     <link rel="stylesheet" href="./css/animate.min.css"/>
     <link rel="stylesheet" href="./css/ionicons.min.css"/>
     <link rel="stylesheet" href="./css/styles.css"/>
-    <link rel="stylesheet" href="./css/dark-mode.css">
+    <link rel="stylesheet" href="./css/dark-mode.css"/>
+    <script
+            nomodule>window.MSInputMethodContext && document.documentMode && document.write('<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-ie11@5/css/bootstrap-ie11.min.css"><script src="https://cdn.jsdelivr.net/npm/ie11-custom-properties@4/ie11CustomProperties.min.js"><\/script>');</script>
 </head>
 
 <body>
@@ -50,8 +52,10 @@
                 <li>
                     <a class="page-scroll" data-toggle="modal" title="A free Bootstrap video landing theme"
                        href="#aboutModal"><img src="assets/info-button.png" height="30"></a>
-                    <link rel="icon"
-                          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>🌓</text></svg>">
+                    <div class="form-check form-switch">
+                        <input type="checkbox" class="form-check-input" id="darkSwitch">
+                        <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
+                    </div>
                 </li>
             </ul>
         </div>
