@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="./css/ionicons.min.css"/>
     <link rel="stylesheet" href="./css/styles.css"/>
     <link rel="stylesheet" href="./css/dark-mode.css"/>
+    <link rel="stylesheet" href="./css/slider.css"/>
     <script
             nomodule>window.MSInputMethodContext && document.documentMode && document.write('<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-ie11@5/css/bootstrap-ie11.min.css"><script src="https://cdn.jsdelivr.net/npm/ie11-custom-properties@4/ie11CustomProperties.min.js"><\/script>');</script>
 </head>
@@ -54,10 +55,17 @@
                        href="#aboutModal">INFO</a>
                 </li>
                 <li>
-                    <div class="form-check form-switch">
-                            <input type="checkbox" class="form-check-input" id="darkSwitch">
-                            <label class="custom-control-label" for="darkSwitch">Light Mode</label>
-                    </div>
+                    <a>
+                        LIGHT MODE
+                        <label class="switch" for="darkSwitch">
+                            <input type="checkbox" id="darkSwitch">
+                            <span class="slider round"></span>
+                        </label>
+                    </a>
+                    <!--div class="form-check form-switch">
+                        <input type="checkbox" class="form-check-input" id="darkSwitch">
+                        <label class="custom-control-label" for="darkSwitch">Light Mode</label>
+                    </div-->
                 </li>
             </ul>
         </div>
@@ -282,7 +290,7 @@
         </div>
     </div>
 </section>
-<aside class="bg-dark">
+<!--aside class="bg-dark">
     <div class="container text-center">
         <div class="call-to-action">
             <h2 class="text-primary">Get Started</h2>
@@ -349,7 +357,7 @@
             </div>
         </div>
     </div>
-</section>
+</section-->
 <footer id="footer">
     <div class="container-fluid">
         <div class="row">
