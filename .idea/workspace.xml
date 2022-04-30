@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Push workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/delphin.jpg" afterDir="false" />
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="removed text shadow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/css/dark-mode.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/dark-mode.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="27N40OFLj8MZrGJFCBP30tSxRMo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,13 +40,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Madeira Template/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OM" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira\Madeira Template\assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira\landing-zero-theme\assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira" />
     </key>
@@ -62,6 +63,7 @@
       <updated>1649146986356</updated>
       <workItem from="1649146987708" duration="956000" />
       <workItem from="1651126691107" duration="3684000" />
+      <workItem from="1651328261374" duration="2448000" />
     </task>
     <task id="LOCAL-00001" summary="Add new html">
       <created>1649147792253</created>
@@ -119,40 +121,40 @@
       <option name="project" value="LOCAL" />
       <updated>1651140011848</updated>
     </task>
-    <task id="LOCAL-00009" summary="Add food pictures">
-      <created>1651149554418</created>
+    <task id="LOCAL-00009" summary="added dark-mode">
+      <created>1651328448228</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1651149554418</updated>
+      <updated>1651328448228</updated>
     </task>
-    <task id="LOCAL-00010" summary="Add food pictures">
-      <created>1651149588525</created>
+    <task id="LOCAL-00010" summary="added dark-mode">
+      <created>1651328670228</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1651149588525</updated>
+      <updated>1651328670228</updated>
     </task>
-    <task id="LOCAL-00011" summary="Added new animations for Kulinarik">
-      <created>1651152173509</created>
+    <task id="LOCAL-00011" summary="added dark-mode">
+      <created>1651328973049</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1651152173509</updated>
+      <updated>1651328973049</updated>
     </task>
-    <task id="LOCAL-00012" summary="Finished animations for Kulinarik">
-      <created>1651153871297</created>
+    <task id="LOCAL-00012" summary="added dark-mode">
+      <created>1651330390681</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1651153871297</updated>
+      <updated>1651330390681</updated>
     </task>
-    <task id="LOCAL-00013" summary="Push workspace.xml">
-      <created>1651154188058</created>
+    <task id="LOCAL-00013" summary="removed text shadow">
+      <created>1651330753735</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1651154188058</updated>
+      <updated>1651330753735</updated>
     </task>
     <option name="localTasksCounter" value="14" />
     <servers />
@@ -170,7 +172,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new html" />
@@ -180,11 +181,8 @@
     <MESSAGE value="Structured template (added some comments, updated navbar, filled in some content)" />
     <MESSAGE value="Added three flipcards" />
     <MESSAGE value="Added food headers" />
-    <MESSAGE value="Added food pictures" />
-    <MESSAGE value="Add food pictures" />
-    <MESSAGE value="Added new animations for Kulinarik" />
-    <MESSAGE value="Finished animations for Kulinarik" />
-    <MESSAGE value="Push workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Push workspace.xml" />
+    <MESSAGE value="added dark-mode" />
+    <MESSAGE value="removed text shadow" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed text shadow" />
   </component>
 </project>
