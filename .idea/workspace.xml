@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="added slider for light mode">
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="changed color in slider">
+      <change beforePath="$PROJECT_DIR$/.idea/AdvCSS_Madeira.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AdvCSS_Madeira.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/css/animate.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/animate.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/css/flipcard.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/flipcard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OM" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -64,7 +68,8 @@
       <updated>1649146986356</updated>
       <workItem from="1649146987708" duration="956000" />
       <workItem from="1651126691107" duration="3684000" />
-      <workItem from="1651328261374" duration="4453000" />
+      <workItem from="1651328261374" duration="4665000" />
+      <workItem from="1651423835432" duration="209000" />
     </task>
     <task id="LOCAL-00001" summary="Add new html">
       <created>1649147792253</created>
@@ -192,7 +197,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651351892301</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added slider for light mode">
+      <created>1651352500417</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651352500417</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added slider for light mode">
+      <created>1651352511914</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651352511914</updated>
+    </task>
+    <task id="LOCAL-00021" summary="changed color in slider">
+      <created>1651424001891</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651424001892</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +247,7 @@
     <MESSAGE value="removed text shadow" />
     <MESSAGE value="added light mode" />
     <MESSAGE value="added slider for light mode" />
-    <option name="LAST_COMMIT_MESSAGE" value="added slider for light mode" />
+    <MESSAGE value="changed color in slider" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed color in slider" />
   </component>
 </project>
