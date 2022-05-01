@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="changed gitignore file">
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="bilder hinzugefügt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/css/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/animations.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +26,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectId" id="27N40OFLj8MZrGJFCBP30tSxRMo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,17 +37,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Madeira Template/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.stylelint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.stylelint" value="" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Laura\Documents\4. Semester\AdvCSS_Madeira\Madeira Template\assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira\landing-zero-theme\assets" />
       <recent name="D:\FH_Hagenberg\4.SS_22\Advanced_CSS\AdvCSS_Madeira" />
     </key>
@@ -66,9 +61,6 @@
       <updated>1649146986356</updated>
       <workItem from="1649146987708" duration="956000" />
       <workItem from="1651126691107" duration="3684000" />
-      <workItem from="1651328261374" duration="4665000" />
-      <workItem from="1651423835432" duration="209000" />
-      <workItem from="1651424065978" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="Add new html">
       <created>1649147792253</created>
@@ -126,112 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651140011848</updated>
     </task>
-    <task id="LOCAL-00009" summary="added dark-mode">
-      <created>1651328448228</created>
+    <task id="LOCAL-00009" summary="bilder update">
+      <created>1651141571976</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1651328448228</updated>
+      <updated>1651141571976</updated>
     </task>
-    <task id="LOCAL-00010" summary="added dark-mode">
-      <created>1651328670228</created>
+    <task id="LOCAL-00010" summary="bilder update neu">
+      <created>1651142048821</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1651328670228</updated>
+      <updated>1651142048821</updated>
     </task>
-    <task id="LOCAL-00011" summary="added dark-mode">
-      <created>1651328973049</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1651328973049</updated>
-    </task>
-    <task id="LOCAL-00012" summary="added dark-mode">
-      <created>1651330390681</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1651330390681</updated>
-    </task>
-    <task id="LOCAL-00013" summary="removed text shadow">
-      <created>1651330753735</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1651330753735</updated>
-    </task>
-    <task id="LOCAL-00014" summary="added light mode">
-      <created>1651331033171</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1651331033171</updated>
-    </task>
-    <task id="LOCAL-00015" summary="added light mode">
-      <created>1651331106751</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1651331106751</updated>
-    </task>
-    <task id="LOCAL-00016" summary="added light mode">
-      <created>1651331117921</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1651331117921</updated>
-    </task>
-    <task id="LOCAL-00017" summary="added slider for light mode">
-      <created>1651351883032</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1651351883032</updated>
-    </task>
-    <task id="LOCAL-00018" summary="added slider for light mode">
-      <created>1651351892301</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1651351892301</updated>
-    </task>
-    <task id="LOCAL-00019" summary="added slider for light mode">
-      <created>1651352500417</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1651352500417</updated>
-    </task>
-    <task id="LOCAL-00020" summary="added slider for light mode">
-      <created>1651352511914</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1651352511914</updated>
-    </task>
-    <task id="LOCAL-00021" summary="changed color in slider">
-      <created>1651424001891</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1651424001892</updated>
-    </task>
-    <task id="LOCAL-00022" summary="changed gitignore file">
-      <created>1651424228854</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1651424228854</updated>
-    </task>
-    <task id="LOCAL-00023" summary="changed gitignore file">
-      <created>1651424327281</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1651424327281</updated>
-    </task>
-    <option name="localTasksCounter" value="24" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +148,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new html" />
@@ -256,12 +158,8 @@
     <MESSAGE value="Structured template (added some comments, updated navbar, filled in some content)" />
     <MESSAGE value="Added three flipcards" />
     <MESSAGE value="Added food headers" />
-    <MESSAGE value="added dark-mode" />
-    <MESSAGE value="removed text shadow" />
-    <MESSAGE value="added light mode" />
-    <MESSAGE value="added slider for light mode" />
-    <MESSAGE value="changed color in slider" />
-    <MESSAGE value="changed gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed gitignore file" />
+    <MESSAGE value="bilder update" />
+    <MESSAGE value="bilder update neu" />
+    <option name="LAST_COMMIT_MESSAGE" value="bilder update neu" />
   </component>
 </project>
