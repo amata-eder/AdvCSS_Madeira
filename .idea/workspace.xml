@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="changed color in slider">
-      <change beforePath="$PROJECT_DIR$/.idea/AdvCSS_Madeira.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AdvCSS_Madeira.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="changed gitignore file">
+      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,7 @@
       <workItem from="1651126691107" duration="3684000" />
       <workItem from="1651328261374" duration="4665000" />
       <workItem from="1651423835432" duration="209000" />
+      <workItem from="1651424065978" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="Add new html">
       <created>1649147792253</created>
@@ -218,7 +217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651424001892</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="changed gitignore file">
+      <created>1651424228854</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651424228854</updated>
+    </task>
+    <task id="LOCAL-00023" summary="changed gitignore file">
+      <created>1651424327281</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651424327281</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +261,7 @@
     <MESSAGE value="added light mode" />
     <MESSAGE value="added slider for light mode" />
     <MESSAGE value="changed color in slider" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed color in slider" />
+    <MESSAGE value="changed gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed gitignore file" />
   </component>
 </project>
