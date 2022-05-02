@@ -49,6 +49,16 @@
     color: #333;
 }
 
+[data-theme="dark"] .row .btn-hover-special:hover{
+    background: cadetblue;
+    color: #fff;
+}
+
+[data-theme="dark"] .row .btn-xl {
+    background-color: #333;
+    color: #eee;
+}
+
 [data-theme="dark"] .navbar-default.affix .nav > li>a,
 .navbar-default.affix .nav>li>a:focus {
     color: #444;

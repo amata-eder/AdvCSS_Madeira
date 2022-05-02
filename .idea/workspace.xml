@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="bilder hinzugefügt">
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="changed gitgnore file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/css/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/animations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/css/dark-mode.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/dark-mode.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651142048821</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="changed gitgnore file">
+      <created>1651517911878</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651517911878</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +154,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new html" />
@@ -160,6 +165,7 @@
     <MESSAGE value="Added food headers" />
     <MESSAGE value="bilder update" />
     <MESSAGE value="bilder update neu" />
-    <option name="LAST_COMMIT_MESSAGE" value="bilder update neu" />
+    <MESSAGE value="changed gitgnore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed gitgnore file" />
   </component>
 </project>
