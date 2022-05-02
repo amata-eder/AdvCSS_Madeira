@@ -1,10 +1,10 @@
 .slideinRight{
-    animation-duration: 3s;
+    animation-duration: 5s;
     animation-name: slideinRight;
 }
 
 .slideinLeft{
-    animation-duration: 3s;
+    animation-duration: 5s;
     animation-name: slideinLeft;
 }
 
