@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Changed html structure for Kulinarik.&#10;Added flexcontainer - responsive is okay now.">
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Updated Kulinarik animations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Madeira Template/css/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/animations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Madeira Template/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Adv_CSS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -174,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651482914535</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Updated Kulinarik animations">
+      <created>1651483985362</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1651483985362</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +216,7 @@
     <MESSAGE value="Animation duration auf 5s" />
     <MESSAGE value="Fixed Kulinarik animations" />
     <MESSAGE value="Changed html structure for Kulinarik.&#10;Added flexcontainer - responsive is okay now." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed html structure for Kulinarik.&#10;Added flexcontainer - responsive is okay now." />
+    <MESSAGE value="Updated Kulinarik animations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Kulinarik animations" />
   </component>
 </project>
