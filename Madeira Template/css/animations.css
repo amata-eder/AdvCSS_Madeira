@@ -1,12 +1,12 @@
 .slideinRight{
-    animation-duration: 5s;
+    animation-duration: 3s;
     animation-name: slideinRight;
 }
 
-.slideinLeft{
+/*.slideinLeft{
     animation-duration: 5s;
     animation-name: slideinLeft;
-}
+}*/
 
 .slide {
     width: 900px;
@@ -67,7 +67,7 @@
     }
 }
 
-@keyframes slideinLeft{
+/*@keyframes slideinLeft{
     from{
         margin-left: 0%;
         width: 300%;
@@ -77,6 +77,6 @@
         margin-left: 0%;
         width: 100%;
     }
-}
+}*/
 
 
