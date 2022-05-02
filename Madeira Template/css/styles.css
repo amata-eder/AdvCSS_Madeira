@@ -365,8 +365,9 @@ footer .content{
         min-height: 600px;
         padding: 100px 0;
     }
-
 }
+
+
 
 .form-control {
     display: block;
@@ -573,4 +574,22 @@ img::-moz-selection {
     width: 218px;
     margin: 0 auto;
     padding: 0;
+}
+
+.flexcontainer-kulinarik{
+    display:flex;
+    flex-direction: row;
+}
+
+.flexcontainer-kulinarik--item{
+    padding-right: .5em;
+    padding-bottom: .5em;
+}
+
+@media(max-width:1245px){
+    .flexcontainer-kulinarik{
+        display:flex;
+        flex-direction: column;
+    }
+
 }

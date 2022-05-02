@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Animation duration auf 5s">
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="Fixed Kulinarik animations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/css/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/animations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651479488764</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Fixed Kulinarik animations">
+      <created>1651480906871</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651480906871</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +199,7 @@
     <MESSAGE value="Finished animations for Kulinarik" />
     <MESSAGE value="Push workspace.xml" />
     <MESSAGE value="Animation duration auf 5s" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animation duration auf 5s" />
+    <MESSAGE value="Fixed Kulinarik animations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Kulinarik animations" />
   </component>
 </project>
