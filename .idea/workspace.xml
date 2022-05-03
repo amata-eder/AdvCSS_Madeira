@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="bildunterschriften">
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="bildunterschriften css">
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/flugzeug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/flugzeug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/flugzeug_klein.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Madeira Template/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../3. Semester/CWP/KWM221IL_UE03_2010456009_HABERL" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,7 +63,7 @@
       <updated>1649146986356</updated>
       <workItem from="1649146987708" duration="956000" />
       <workItem from="1651126691107" duration="3684000" />
-      <workItem from="1651577485983" duration="1261000" />
+      <workItem from="1651577485983" duration="4419000" />
     </task>
     <task id="LOCAL-00001" summary="Add new html">
       <created>1649147792253</created>
@@ -153,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651578614943</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="bildunterschriften css">
+      <created>1651578854056</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651578854056</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +193,7 @@
     <MESSAGE value="bilder update neu" />
     <MESSAGE value="bilder für sehenswürdigkeiten" />
     <MESSAGE value="bildunterschriften" />
-    <option name="LAST_COMMIT_MESSAGE" value="bildunterschriften" />
+    <MESSAGE value="bildunterschriften css" />
+    <option name="LAST_COMMIT_MESSAGE" value="bildunterschriften css" />
   </component>
 </project>
