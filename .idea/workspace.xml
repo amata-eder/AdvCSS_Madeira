@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="bilder für sehenswürdigkeiten">
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="bildunterschriften">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <updated>1649146986356</updated>
       <workItem from="1649146987708" duration="956000" />
       <workItem from="1651126691107" duration="3684000" />
-      <workItem from="1651577485983" duration="876000" />
+      <workItem from="1651577485983" duration="1261000" />
     </task>
     <task id="LOCAL-00001" summary="Add new html">
       <created>1649147792253</created>
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651567931137</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="bildunterschriften">
+      <created>1651578614943</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1651578614943</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +182,7 @@
     <MESSAGE value="bilder update" />
     <MESSAGE value="bilder update neu" />
     <MESSAGE value="bilder für sehenswürdigkeiten" />
-    <option name="LAST_COMMIT_MESSAGE" value="bilder für sehenswürdigkeiten" />
+    <MESSAGE value="bildunterschriften" />
+    <option name="LAST_COMMIT_MESSAGE" value="bildunterschriften" />
   </component>
 </project>
