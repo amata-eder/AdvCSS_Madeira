@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="updated dark/light mode" />
+    <list default="true" id="73a5a302-f753-4683-ac23-6b1434f2d83e" name="Changes" comment="bilder hinzugefügt">
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/cliff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/delfine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/klippe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/klippe2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/korbschlitten.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/markt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/pico-ruivo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/wasserfall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madeira Template/assets/waterfall.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madeira Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madeira Template/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/bootstrap-5.1.3/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -128,21 +140,7 @@
       <option name="project" value="LOCAL" />
       <updated>1651142048821</updated>
     </task>
-    <task id="LOCAL-00011" summary="changed gitgnore file">
-      <created>1651517911878</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1651517911878</updated>
-    </task>
-    <task id="LOCAL-00012" summary="updated dark/light mode">
-      <created>1651518554621</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1651518554621</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +156,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new html" />
@@ -169,8 +168,6 @@
     <MESSAGE value="Added food headers" />
     <MESSAGE value="bilder update" />
     <MESSAGE value="bilder update neu" />
-    <MESSAGE value="changed gitgnore file" />
-    <MESSAGE value="updated dark/light mode" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated dark/light mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="bilder update neu" />
   </component>
 </project>
