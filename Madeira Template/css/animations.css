@@ -8,6 +8,7 @@
     animation-name: slideinLeft;
 }
 
+/* sliding gallery */
 .slide {
     width: 900px;
     height: 500px;
@@ -71,5 +72,26 @@
 
     100%{
         transform: translate(0em);
+    }
+}
+
+@media (max-width: 1000px){
+    .slide {
+        width: 700px;
+        height: 388px;
+    }
+}
+
+@media (max-width: 800px){
+    .slide {
+        width: 500px;
+        height: 277px;
+    }
+}
+
+@media (max-width: 600px) {
+    .slide {
+        width: 400px;
+        height: 222px;
     }
 }
