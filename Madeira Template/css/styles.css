@@ -608,3 +608,20 @@ img::-moz-selection {
     color: #fff;
     transition: all .35s;
 }
+
+.flugzeug:hover {
+    animation-duration: 3s;
+    animation-name: slideout;
+}
+
+@keyframes slideout {
+    from {
+        margin-left: 0%;
+        width: 100%;
+    }
+
+    to {
+        margin-left: 50%;
+        width: 100%;
+    }
+}
