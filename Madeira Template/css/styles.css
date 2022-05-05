@@ -615,19 +615,19 @@ img::-moz-selection {
     transition: all .35s;
 }
 
-.flugzeug:hover {
-    animation-duration: 3s;
-    animation-name: slideout;
+.flugzeug {
+    animation-duration: 5s;
+    animation-name: slidein;
 }
 
-@keyframes slideout {
+@keyframes slidein {
     from {
-        margin-left: 0%;
+        margin-left: -50%;
         width: 100%;
     }
 
     to {
-        margin-left: 50%;
+        margin-left: 0%;
         width: 100%;
     }
 }
