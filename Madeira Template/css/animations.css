@@ -1,3 +1,4 @@
+/*Kulinarik Animations*/
 .slideinRight{
     animation-duration: 3s;
     animation-name: slideinRight;
@@ -7,6 +8,7 @@
     animation-duration: 3s;
     animation-name: slideinLeft;
 }
+
 
 /* sliding gallery */
 .slide {

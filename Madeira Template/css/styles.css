@@ -46,6 +46,12 @@ http://www.bootstrapzero.com
     .navbar-default .nav>li>a:focus {
         color: #222;
     }
+
+    .kulinarik-border--hover:hover{
+        border: 5px solid white;
+        padding: 1em;
+    }
+
 }
 
 html,
@@ -625,4 +631,5 @@ img::-moz-selection {
         width: 100%;
     }
 }
+
 

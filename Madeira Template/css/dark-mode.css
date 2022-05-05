@@ -63,3 +63,22 @@
 .navbar-default.affix .nav>li>a:focus {
     color: #444;
 }
+
+[data-theme="dark"] .kulinarik-border--hover:hover{
+    border: 5px solid #282828;
+    padding: 1em;
+}
+
+[data-theme="dark"] .modal-content{
+    background-color: white;
+}
+
+[data-theme="dark"] button{
+    color: black;
+    border: 1px solid red;
+    border-radius: 20px;
+}
+
+[data-theme="dark"] button:hover{
+    color: black;
+}
